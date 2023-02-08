@@ -1,0 +1,112 @@
+url: "https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login"
+implicitWait: "10"
+addCustomer:
+ bankClick: "//*[contains(text(), \"Bank \")]"
+ addCustomerbuttonClick: "//*[contains(text(), \"Add\")]"
+ firstName: "//*[contains(@ng-model, \"fName\")]"
+ lastName: "//*[contains(@ng-model, \"lName\")]"
+ postCode: "//*[contains(@ng-model, \"postCd\")]"
+ addClick: "//*[contains(@class, \"btn-default\")]"
+ 
+customersVailidation:
+ custBox: "//*[contains(text(), \"Customers\")]"
+ flName: "//*[contains(@class, \"-control\")]"
+ vailidation: "//tbody//tr[val]"
+ clear: "//*[contains(@class, \"-control\")]"
+ 
+
+openAccount: 
+ openButton: "//*[contains(text(), \"Open Account\")]"
+ selectOp: "//select[@name=\"userSelect\"]"
+ selCurrency: "//*[contains(@name, \"currency\")]"
+ click: "//*[contains(text(), \"Process\")]"
+ 
+ 
+CustomerLogin: 
+ customerLoginButton: "//*[contains(text(), \"Customer Login\")]"
+ opSelection: "//select[@id=\"userSelect\"]"
+ loginButton: ".btn-default"
+ msg1: ".fontBig"
+ msg2: ".ng-pristine"
+ msg3: ".center .ng-binding"
+ acDetails: ".center" 
+ logout: ".logout"
+ 
+depositAmount: 
+ custOptionSelection: "//select[@id=\"userSelect\"]"
+ loginButton: ".btn-default"
+ acDetal: ".center"
+ depositBox: "//*[contains(text(), \"Deposit\")]"
+ enterAm: "//*[@placeholder=\"amount\"]"
+ depositBx: ".btn-default"
+ acDetails: ".center"
+ logout: ".logout"
+ 
+ 
+withdrawlAmount: 
+ selectCustomer: "//select[@id=\"userSelect\"]"
+ loginButton: ".btn-default"
+ acDetaisls: ".center"
+ withDrawButton: "//*[contains(text(), \"Withdrawl\")]"
+ amPick: "//*[contains(@placeholder, \"amount\")]"
+ with: ".btn-default"
+ successful: ".error"
+ map: ".center"
+ logout: ".logout"
+ 
+ 
+transactionsHistory:
+ custOptionSelection: "//select[@id=\"userSelect\"]"
+ loginButton: ".btn-default"
+ acDetails: ".center"
+ transactionButton: "//*[contains(text(), \"Transactions\")]"
+ cdAmount: "//tbody//tr"
+ logout: ".logout"
+ 
+
+deleteTransactions:
+ custOptionSelection: "//select[@id=\"userSelect\"]"
+ loginButton: ".btn-default"
+ transactionButton: "//*[contains(text(), \"Transactions\")]"
+ resetButton: "button[ng-click=\"reset()\"]"
+ logout: ".logout"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  

@@ -1,0 +1,145 @@
+2023-02-08 16:42:37 INFO  BankmanagerOperations:initiateDriver:66 - Driver is Started
+2023-02-08 16:42:42 INFO  BankmanagerOperations:<init>:47 - https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+2023-02-08 16:42:42 INFO  BankmanagerOperations:<init>:50 - Driver is navigating to URL
+2023-02-08 16:42:42 INFO  BankmanagerOperations:<init>:49 - [[Mitchell, Roy, 547432], [Richardson, John, 510085], [Williams, Roberta, 504368], [Smith, James, 355241]]
+2023-02-08 16:42:46 INFO  SeleniumControls:alerts:239 - Mitchell - Customer added successfully with customer id :6
+2023-02-08 16:42:47 INFO  SeleniumControls:alerts:239 - Richardson - Customer added successfully with customer id :7
+2023-02-08 16:42:49 INFO  SeleniumControls:alerts:239 - Williams - Customer added successfully with customer id :8
+2023-02-08 16:42:50 INFO  SeleniumControls:alerts:239 - Smith - Customer added successfully with customer id :9
+2023-02-08 16:42:52 INFO  SeleniumControls:vailidation:194 - Mitchell
+2023-02-08 16:42:52 INFO  BankmanagerOperations:customersVailidation:117 - Added Successfully to list
+2023-02-08 16:42:52 INFO  BankmanagerOperations:customersVailidation:127 - Mitchell
+2023-02-08 16:42:52 INFO  SeleniumControls:vailidation:194 - Mitchell
+2023-02-08 16:42:52 INFO  BankmanagerOperations:customersVailidation:131 - Test cases passed
+2023-02-08 16:42:52 INFO  SeleniumControls:vailidation:194 - Richardson
+2023-02-08 16:42:53 INFO  BankmanagerOperations:customersVailidation:117 - Added Successfully to list
+2023-02-08 16:42:53 INFO  BankmanagerOperations:customersVailidation:127 - Richardson
+2023-02-08 16:42:53 INFO  SeleniumControls:vailidation:194 - Richardson
+2023-02-08 16:42:53 INFO  BankmanagerOperations:customersVailidation:131 - Test cases passed
+2023-02-08 16:42:53 INFO  SeleniumControls:vailidation:194 - Williams
+2023-02-08 16:42:53 INFO  BankmanagerOperations:customersVailidation:117 - Added Successfully to list
+2023-02-08 16:42:53 INFO  BankmanagerOperations:customersVailidation:127 - Williams
+2023-02-08 16:42:53 INFO  SeleniumControls:vailidation:194 - Williams
+2023-02-08 16:42:53 INFO  BankmanagerOperations:customersVailidation:131 - Test cases passed
+2023-02-08 16:42:53 INFO  SeleniumControls:vailidation:194 - Smith
+2023-02-08 16:42:53 INFO  BankmanagerOperations:customersVailidation:117 - Added Successfully to list
+2023-02-08 16:42:53 INFO  BankmanagerOperations:customersVailidation:127 - Smith
+2023-02-08 16:42:53 INFO  SeleniumControls:vailidation:194 - Smith
+2023-02-08 16:42:53 INFO  BankmanagerOperations:customersVailidation:131 - Test cases passed
+2023-02-08 16:42:56 INFO  SeleniumControls:alerts:239 - Mitchell - Account created successfully with account Number :1016
+2023-02-08 16:42:58 INFO  SeleniumControls:alerts:239 - Richardson - Account created successfully with account Number :1017
+2023-02-08 16:42:59 INFO  SeleniumControls:alerts:239 - Williams - Account created successfully with account Number :1018
+2023-02-08 16:43:00 INFO  SeleniumControls:alerts:239 - Smith - Account created successfully with account Number :1019
+2023-02-08 16:43:00 INFO  CustomerLogin:<init>:29 - [1000, 2000, 3213]
+2023-02-08 16:43:02 INFO  SeleniumControls:welcomeMsgVailidation:311 - Customer Name: Mitchell Roy
+2023-02-08 16:43:02 INFO  SeleniumControls:welcomeMsgVailidation:318 - Customer Account Number: 1016
+2023-02-08 16:43:02 INFO  SeleniumControls:welcomeMsgVailidation:311 - Customer Name: Richardson John
+2023-02-08 16:43:02 INFO  SeleniumControls:welcomeMsgVailidation:318 - Customer Account Number: 1017
+2023-02-08 16:43:03 INFO  SeleniumControls:welcomeMsgVailidation:311 - Customer Name: Williams Roberta
+2023-02-08 16:43:03 INFO  SeleniumControls:welcomeMsgVailidation:318 - Customer Account Number: 1018
+2023-02-08 16:43:03 INFO  SeleniumControls:welcomeMsgVailidation:311 - Customer Name: Smith James
+2023-02-08 16:43:03 INFO  SeleniumControls:welcomeMsgVailidation:318 - Customer Account Number: 1019
+2023-02-08 16:43:04 INFO  CustomerLogin:depositAmount:107 - Mitchell Roy Before Balance: 0
+2023-02-08 16:43:04 INFO  CustomerLogin:depositAmount:113 - Amount added again: 1000
+2023-02-08 16:43:05 INFO  CustomerLogin:depositAmount:117 - Amount Entered
+2023-02-08 16:43:05 INFO  CustomerLogin:depositAmount:121 - Deposit Successful to : Mitchell Roy
+2023-02-08 16:43:05 INFO  CustomerLogin:depositAmount:124 - Mitchell Roy After Deposit Balance is: 1000
+2023-02-08 16:43:05 INFO  CustomerLogin:depositAmount:127 - Deposit amount updated successfull to :Mitchell Roy
+2023-02-08 16:43:05 INFO  CustomerLogin:depositAmount:113 - Amount added again: 2000
+2023-02-08 16:43:05 INFO  CustomerLogin:depositAmount:117 - Amount Entered
+2023-02-08 16:43:05 INFO  CustomerLogin:depositAmount:121 - Deposit Successful to : Mitchell Roy
+2023-02-08 16:43:05 INFO  CustomerLogin:depositAmount:124 - Mitchell Roy After Deposit Balance is: 3000
+2023-02-08 16:43:05 INFO  CustomerLogin:depositAmount:127 - Deposit amount updated successfull to :Mitchell Roy
+2023-02-08 16:43:05 INFO  CustomerLogin:depositAmount:113 - Amount added again: 3213
+2023-02-08 16:43:05 INFO  CustomerLogin:depositAmount:117 - Amount Entered
+2023-02-08 16:43:05 INFO  CustomerLogin:depositAmount:121 - Deposit Successful to : Mitchell Roy
+2023-02-08 16:43:05 INFO  CustomerLogin:depositAmount:124 - Mitchell Roy After Deposit Balance is: 6213
+2023-02-08 16:43:05 INFO  CustomerLogin:depositAmount:127 - Deposit amount updated successfull to :Mitchell Roy
+2023-02-08 16:43:09 INFO  CustomerLogin:depositAmount:107 - Richardson John Before Balance: 0
+2023-02-08 16:43:09 INFO  CustomerLogin:depositAmount:113 - Amount added again: 1000
+2023-02-08 16:43:09 INFO  CustomerLogin:depositAmount:117 - Amount Entered
+2023-02-08 16:43:09 INFO  CustomerLogin:depositAmount:121 - Deposit Successful to : Richardson John
+2023-02-08 16:43:09 INFO  CustomerLogin:depositAmount:124 - Richardson John After Deposit Balance is: 1000
+2023-02-08 16:43:09 INFO  CustomerLogin:depositAmount:127 - Deposit amount updated successfull to :Richardson John
+2023-02-08 16:43:09 INFO  CustomerLogin:depositAmount:113 - Amount added again: 2000
+2023-02-08 16:43:09 INFO  CustomerLogin:depositAmount:117 - Amount Entered
+2023-02-08 16:43:09 INFO  CustomerLogin:depositAmount:121 - Deposit Successful to : Richardson John
+2023-02-08 16:43:09 INFO  CustomerLogin:depositAmount:124 - Richardson John After Deposit Balance is: 3000
+2023-02-08 16:43:09 INFO  CustomerLogin:depositAmount:127 - Deposit amount updated successfull to :Richardson John
+2023-02-08 16:43:09 INFO  CustomerLogin:depositAmount:113 - Amount added again: 3213
+2023-02-08 16:43:09 INFO  CustomerLogin:depositAmount:117 - Amount Entered
+2023-02-08 16:43:09 INFO  CustomerLogin:depositAmount:121 - Deposit Successful to : Richardson John
+2023-02-08 16:43:09 INFO  CustomerLogin:depositAmount:124 - Richardson John After Deposit Balance is: 6213
+2023-02-08 16:43:09 INFO  CustomerLogin:depositAmount:127 - Deposit amount updated successfull to :Richardson John
+2023-02-08 16:43:13 INFO  CustomerLogin:depositAmount:107 - Williams Roberta Before Balance: 0
+2023-02-08 16:43:13 INFO  CustomerLogin:depositAmount:113 - Amount added again: 1000
+2023-02-08 16:43:13 INFO  CustomerLogin:depositAmount:117 - Amount Entered
+2023-02-08 16:43:13 INFO  CustomerLogin:depositAmount:121 - Deposit Successful to : Williams Roberta
+2023-02-08 16:43:13 INFO  CustomerLogin:depositAmount:124 - Williams Roberta After Deposit Balance is: 1000
+2023-02-08 16:43:13 INFO  CustomerLogin:depositAmount:127 - Deposit amount updated successfull to :Williams Roberta
+2023-02-08 16:43:13 INFO  CustomerLogin:depositAmount:113 - Amount added again: 2000
+2023-02-08 16:43:13 INFO  CustomerLogin:depositAmount:117 - Amount Entered
+2023-02-08 16:43:13 INFO  CustomerLogin:depositAmount:121 - Deposit Successful to : Williams Roberta
+2023-02-08 16:43:13 INFO  CustomerLogin:depositAmount:124 - Williams Roberta After Deposit Balance is: 3000
+2023-02-08 16:43:13 INFO  CustomerLogin:depositAmount:127 - Deposit amount updated successfull to :Williams Roberta
+2023-02-08 16:43:13 INFO  CustomerLogin:depositAmount:113 - Amount added again: 3213
+2023-02-08 16:43:13 INFO  CustomerLogin:depositAmount:117 - Amount Entered
+2023-02-08 16:43:13 INFO  CustomerLogin:depositAmount:121 - Deposit Successful to : Williams Roberta
+2023-02-08 16:43:13 INFO  CustomerLogin:depositAmount:124 - Williams Roberta After Deposit Balance is: 6213
+2023-02-08 16:43:13 INFO  CustomerLogin:depositAmount:127 - Deposit amount updated successfull to :Williams Roberta
+2023-02-08 16:43:17 INFO  CustomerLogin:depositAmount:107 - Smith James Before Balance: 0
+2023-02-08 16:43:17 INFO  CustomerLogin:depositAmount:113 - Amount added again: 1000
+2023-02-08 16:43:17 INFO  CustomerLogin:depositAmount:117 - Amount Entered
+2023-02-08 16:43:17 INFO  CustomerLogin:depositAmount:121 - Deposit Successful to : Smith James
+2023-02-08 16:43:17 INFO  CustomerLogin:depositAmount:124 - Smith James After Deposit Balance is: 1000
+2023-02-08 16:43:17 INFO  CustomerLogin:depositAmount:127 - Deposit amount updated successfull to :Smith James
+2023-02-08 16:43:17 INFO  CustomerLogin:depositAmount:113 - Amount added again: 2000
+2023-02-08 16:43:17 INFO  CustomerLogin:depositAmount:117 - Amount Entered
+2023-02-08 16:43:17 INFO  CustomerLogin:depositAmount:121 - Deposit Successful to : Smith James
+2023-02-08 16:43:17 INFO  CustomerLogin:depositAmount:124 - Smith James After Deposit Balance is: 3000
+2023-02-08 16:43:17 INFO  CustomerLogin:depositAmount:127 - Deposit amount updated successfull to :Smith James
+2023-02-08 16:43:17 INFO  CustomerLogin:depositAmount:113 - Amount added again: 3213
+2023-02-08 16:43:17 INFO  CustomerLogin:depositAmount:117 - Amount Entered
+2023-02-08 16:43:17 INFO  CustomerLogin:depositAmount:121 - Deposit Successful to : Smith James
+2023-02-08 16:43:17 INFO  CustomerLogin:depositAmount:124 - Smith James After Deposit Balance is: 6213
+2023-02-08 16:43:17 INFO  CustomerLogin:depositAmount:127 - Deposit amount updated successfull to :Smith James
+2023-02-08 16:43:21 INFO  CustomerLogin:withdrawlAmount:191 - Mitchell Roy Before Balance: 6213
+2023-02-08 16:43:22 INFO  CustomerLogin:withdrawlAmount:207 - Mitchell Roy After Deposit Balance is: 5213
+2023-02-08 16:43:22 INFO  CustomerLogin:withdrawlAmount:210 - Withdrawl amount updated successfull to : Mitchell Roy
+2023-02-08 16:43:22 INFO  CustomerLogin:withdrawlAmount:207 - Mitchell Roy After Deposit Balance is: 3213
+2023-02-08 16:43:22 INFO  CustomerLogin:withdrawlAmount:210 - Withdrawl amount updated successfull to : Mitchell Roy
+2023-02-08 16:43:23 INFO  CustomerLogin:withdrawlAmount:207 - Mitchell Roy After Deposit Balance is: 0
+2023-02-08 16:43:23 INFO  CustomerLogin:withdrawlAmount:210 - Withdrawl amount updated successfull to : Mitchell Roy
+2023-02-08 16:43:26 INFO  CustomerLogin:withdrawlAmount:191 - Richardson John Before Balance: 6213
+2023-02-08 16:43:26 INFO  CustomerLogin:withdrawlAmount:207 - Richardson John After Deposit Balance is: 5213
+2023-02-08 16:43:26 INFO  CustomerLogin:withdrawlAmount:210 - Withdrawl amount updated successfull to : Richardson John
+2023-02-08 16:43:26 INFO  CustomerLogin:withdrawlAmount:207 - Richardson John After Deposit Balance is: 3213
+2023-02-08 16:43:26 INFO  CustomerLogin:withdrawlAmount:210 - Withdrawl amount updated successfull to : Richardson John
+2023-02-08 16:43:27 INFO  CustomerLogin:withdrawlAmount:207 - Richardson John After Deposit Balance is: 0
+2023-02-08 16:43:27 INFO  CustomerLogin:withdrawlAmount:210 - Withdrawl amount updated successfull to : Richardson John
+2023-02-08 16:43:30 INFO  CustomerLogin:withdrawlAmount:191 - Williams Roberta Before Balance: 6213
+2023-02-08 16:43:30 INFO  CustomerLogin:withdrawlAmount:207 - Williams Roberta After Deposit Balance is: 5213
+2023-02-08 16:43:30 INFO  CustomerLogin:withdrawlAmount:210 - Withdrawl amount updated successfull to : Williams Roberta
+2023-02-08 16:43:31 INFO  CustomerLogin:withdrawlAmount:207 - Williams Roberta After Deposit Balance is: 3213
+2023-02-08 16:43:31 INFO  CustomerLogin:withdrawlAmount:210 - Withdrawl amount updated successfull to : Williams Roberta
+2023-02-08 16:43:31 INFO  CustomerLogin:withdrawlAmount:207 - Williams Roberta After Deposit Balance is: 0
+2023-02-08 16:43:31 INFO  CustomerLogin:withdrawlAmount:210 - Withdrawl amount updated successfull to : Williams Roberta
+2023-02-08 16:43:34 INFO  CustomerLogin:withdrawlAmount:191 - Smith James Before Balance: 6213
+2023-02-08 16:43:34 INFO  CustomerLogin:withdrawlAmount:207 - Smith James After Deposit Balance is: 5213
+2023-02-08 16:43:34 INFO  CustomerLogin:withdrawlAmount:210 - Withdrawl amount updated successfull to : Smith James
+2023-02-08 16:43:35 INFO  CustomerLogin:withdrawlAmount:207 - Smith James After Deposit Balance is: 3213
+2023-02-08 16:43:35 INFO  CustomerLogin:withdrawlAmount:210 - Withdrawl amount updated successfull to : Smith James
+2023-02-08 16:43:35 INFO  CustomerLogin:withdrawlAmount:207 - Smith James After Deposit Balance is: 0
+2023-02-08 16:43:35 INFO  CustomerLogin:withdrawlAmount:210 - Withdrawl amount updated successfull to : Smith James
+2023-02-08 16:43:38 INFO  CustomerLogin:transactionsHistory:275 - Mitchell Roy Before Balance: 0
+2023-02-08 16:43:40 INFO  CustomerLogin:transactionsHistory:282 - Transancations balance matched with Account Balance
+2023-02-08 16:43:40 INFO  CustomerLogin:transactionsHistory:275 - Richardson John Before Balance: 0
+2023-02-08 16:43:41 INFO  CustomerLogin:transactionsHistory:282 - Transancations balance matched with Account Balance
+2023-02-08 16:43:41 INFO  CustomerLogin:transactionsHistory:275 - Williams Roberta Before Balance: 0
+2023-02-08 16:43:41 INFO  CustomerLogin:transactionsHistory:282 - Transancations balance matched with Account Balance
+2023-02-08 16:43:42 INFO  CustomerLogin:transactionsHistory:275 - Smith James Before Balance: 0
+2023-02-08 16:43:42 INFO  CustomerLogin:transactionsHistory:282 - Transancations balance matched with Account Balance
+2023-02-08 16:43:43 INFO  CustomerLogin:deleteTransactions:333 - Transactions History was deleted Successfully ...Test case is Passed
+2023-02-08 16:43:43 INFO  CustomerLogin:deleteTransactions:333 - Transactions History was deleted Successfully ...Test case is Passed
+2023-02-08 16:43:44 INFO  CustomerLogin:deleteTransactions:333 - Transactions History was deleted Successfully ...Test case is Passed
+2023-02-08 16:43:44 INFO  CustomerLogin:deleteTransactions:333 - Transactions History was deleted Successfully ...Test case is Passed
